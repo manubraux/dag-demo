@@ -1,3 +1,3 @@
 # DAG Demo
 
-## Liste d'assistents au cours :
+## Liste d'assistents au cours : -Victor ARIBAUD
