@@ -1,6 +1,7 @@
 # DAG Demo
 
 ## Liste d'assistents au cours :
+
 - HARMAND Ryan
 - LOUIS Kamel
 - Benissad Yacine
@@ -9,9 +10,13 @@
 - Alaoui Mehdi
 - Aribaud VICTOR
 - Jihad OUARD
+- Tlili Ramy
 - Juan CRUZ
 - Gatien CHENU
 - Tom Delaplagne
 - Gonzalo BECKER
 - Maëlle Kerleguer
 - Ali Touzi
+- Zamani Inas
+- Le Flohic PAUL
+
