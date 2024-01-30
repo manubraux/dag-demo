@@ -5,7 +5,7 @@
 
 - HARMAND Ryan
 - Kerleguer Maëlle
-- LOUIS Kamel 
+- LOUNIS Kamel 
 - Benissad Yacine
 - ait m'bark AYMANE
 - Derrien Alexandre
