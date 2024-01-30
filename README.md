@@ -24,3 +24,4 @@
 - Corentin BOUNON
 - Eden ARFI
 - Noël MATHIEU
+- Jean YAPO
