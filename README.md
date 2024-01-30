@@ -5,18 +5,9 @@
 
 - HARMAND Ryan
 - Kerleguer Maëlle
-- LOUNIS Kamel 
-=======
-<<<<<<< HEAD
-## Liste d'assistents au cours :
+- LOUIS Kamel 
 - Benissad Yacine
-=======
-<<<<<<< HEAD
-=======
-## Liste d'assistents au cours :
-<<<<<<< HEAD
--ait m'bark AYMANE
-=======
+- ait m'bark AYMANE
 - Derrien Alexandre
 - Alaoui Mehdi
 - Aribaud VICTOR
