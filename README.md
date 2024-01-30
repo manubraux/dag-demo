@@ -13,4 +13,5 @@
 - Jihad OUARD
 - Juan CRUZ
 - Gatien CHENU
+- Tom Delaplagne
 - Gonzalo BECKER
