@@ -15,4 +15,4 @@
 - Gatien CHENU
 - Tom Delaplagne
 - Gonzalo BECKER
--Maëlle Kerleguer
+- Maëlle Kerleguer
