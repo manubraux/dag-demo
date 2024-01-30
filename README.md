@@ -5,8 +5,6 @@
 - Benissad Yacine
 =======
 <<<<<<< HEAD
-## Liste d'assistents au cours : 
--Victor ARIBAUD
 =======
 ## Liste d'assistents au cours :
 <<<<<<< HEAD
@@ -14,4 +12,5 @@
 =======
 - Derrien Alexandre
 - Alaoui Mehdi
+- Aribaud VICTOR
 >>>>>>> 2ff97fd7131634415bf5fd51696dc1453265370d
