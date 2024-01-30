@@ -14,3 +14,4 @@
 - Tom Delaplagne
 - Gonzalo BECKER
 - Maëlle Kerleguer
+- Ali Touzi
