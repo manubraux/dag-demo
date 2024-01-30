@@ -5,7 +5,7 @@
 
 - HARMAND Ryan
 - Kerleguer Maëlle
-- LOUIS Kamel 
+- LOUNIS Kamel 
 =======
 <<<<<<< HEAD
 ## Liste d'assistents au cours :
