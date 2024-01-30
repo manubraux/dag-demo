@@ -2,15 +2,9 @@
 
 ## Liste d'assistents au cours :
 
-<<<<<<< HEAD
-Kerleguer Maëlle
-Harmand Ryan
-Derrien Alexandre 
-Lounis Kamel
-=======
 - HARMAND Ryan
 - Kerleguer Maëlle
-- LOUIS Kamel 
+- LOUIS Kamel
 - Benissad Yacine
 - ait m'bark AYMANE
 - Derrien Alexandre
@@ -18,4 +12,7 @@ Lounis Kamel
 - Aribaud VICTOR
 - Jihad OUARD
 - Juan CRUZ
->>>>>>> 0efab76ae75f6b082a15007a65dbe1e74a74023c
+- Gatien CHENU
+- Tom Delaplagne
+- Gonzalo BECKER
+-Maëlle Kerleguer
