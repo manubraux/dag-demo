@@ -3,7 +3,7 @@
 ## Liste d'assistents au cours :
 
 - HARMAND Ryan
-- LOUIS Kamel
+- LOUNIS Kamel
 - Benissad Yacine
 - ait m'bark AYMANE
 - Derrien Alexandre
@@ -19,4 +19,8 @@
 - Ali Touzi
 - Zamani Inas
 - Le Flohic PAUL
-
+- Dakhia RAYAN
+- Aribaud VICTOR depuis Linux
+- Corentin BOUNON
+- Eden ARFI
+- Noël MATHIEU
