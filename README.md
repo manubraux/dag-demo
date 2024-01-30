@@ -4,5 +4,4 @@
 
 - HARMAND Ryan
 - Kerleguer Maëlle
-- LOUIS Kamel
- 
+- LOUIS Kamel 
