@@ -1,27 +1,29 @@
 import os
 import sys
+import math as m 
 # The DAG object; we'll need this to instantiate a DAG
 from airflow.models.dag import DAG
 from airflow.decorators import task
 
 from datetime import timedelta
 
-
-@task(task_id="hello")
-def hello_task():
+@task(task_id="carré_parfait")
+def simple_testask1():
     print(sys.path)
-    print("Hello, this is the test task from gatien")
+    print("Hello, these are 10 perfect squares")
+    for i in range(10):
+        print(i*i)
     return "Done"
 
-
-@task(task_id="bye")
-def bye_task():
-    print("bye")
+@task(task_id="sqrt")
+def simple_testask2():
+    print(sys.path)
+    print("Hello, these are 10 square roots")
+    for i in range(10):
+        print(m.sqrt(i))
     return "Done"
-
-
 with DAG(
-    "sample_python_dag",
+    "Ramy_dag",
     # These args will get passed on to each operator
     # You can override them on a per-task basis during operator initialization
     default_args={
@@ -36,8 +38,9 @@ with DAG(
     catchup=False,
     tags=["demo", "example", "test"],
 ) as dag:
+    
+    t1 =simple_testask1()
+    t2=simple_testask2()
 
-    t1 = hello_task()
-    t2 = bye_task()
 
-    t1 >> t2
+    t1>>t2
