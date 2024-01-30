@@ -4,7 +4,7 @@
 
 - HARMAND Ryan
 - Kerleguer Maëlle
-- LOUIS Kamel 
+- LOUIS Kamel
 - Benissad Yacine
 - ait m'bark AYMANE
 - Derrien Alexandre
@@ -12,3 +12,4 @@
 - Aribaud VICTOR
 - Jihad OUARD
 - Juan CRUZ
+- Gatien CHENU
