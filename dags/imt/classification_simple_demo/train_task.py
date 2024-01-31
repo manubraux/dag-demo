@@ -40,12 +40,11 @@ def load_data(data_path):
 
 @task(task_id="training")
 def start_training(repo_path, model_path, **kwargs):
-    """repo_path = Path(repo_path)
+    repo_path = Path(repo_path)
     model_path = Path(model_path)
     train_csv_path = repo_path / "prepared/train.csv"
     train_data, labels = load_data(train_csv_path)
     sgd = SGDClassifier(max_iter=100)
     trained_model = sgd.fit(train_data, labels)
-    dump(trained_model, model_path / "model.joblib")"""
+    dump(trained_model, model_path / "model.joblib")
     return "Training done"
-
