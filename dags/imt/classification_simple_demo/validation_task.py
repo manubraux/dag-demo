@@ -35,7 +35,7 @@ def load_data(data_path):
     return data, labels
 
 @task(task_id="evaluation")
-def start_evaluation(repo_path, model_path, metrics_path, **kwargs):
+def start_evaluation(repo_path, model_path, metrics_path, **kwargs):   
     repo_path = Path(repo_path)
     model_path = Path(model_path)
     metrics_path = Path(metrics_path)
