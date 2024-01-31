@@ -77,7 +77,8 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
     - ${AIRFLOW_PROJ_DIR:-.}/models:/opt/airflow/models
     - ${AIRFLOW_PROJ_DIR:-.}/metrics:/opt/airflow/metrics 
-    - ${AIRFLOW_PROJ_DIR:-.}/metrics:/opt/airflow/metrics
+    
+    
       
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
