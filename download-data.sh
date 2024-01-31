@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 echo "Create directories..."
 mkdir -p data
