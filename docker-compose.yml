@@ -50,7 +50,7 @@ x-airflow-common:
   # Comment the image line, place your Dockerfile in the directory where you placed the docker-compose.yaml
   # and uncomment the "build" line below, Then run `docker-compose build` to build the images.
   image: ${AIRFLOW_IMAGE_NAME:-juandavidcruzgo/airflow:2.8.1-custom} # -apache/airflow:2.8.1 L'image correspond à la config de l'ordi (local)
-  # build: 
+  # build:
   environment:
     &airflow-common-env
     AIRFLOW__CORE__EXECUTOR: CeleryExecutor
@@ -76,9 +76,9 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
     - ${AIRFLOW_PROJ_DIR:-.}/data:/opt/airflow/data
     - ${AIRFLOW_PROJ_DIR:-.}/models:/opt/airflow/models
-    - ${AIRFLOW_PROJ_DIR:-.}/metrics:/opt/airflow/metrics 
     - ${AIRFLOW_PROJ_DIR:-.}/metrics:/opt/airflow/metrics
-      
+
+
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -147,7 +147,7 @@ services:
       airflow-init:
         condition: service_completed_successfully
 
-  airflow-worker: # Celui qui réalise les différentes commandes de la pipeline 
+  airflow-worker: # Celui qui réalise les différentes commandes de la pipeline
     <<: *airflow-common
     command: celery worker
     healthcheck:
