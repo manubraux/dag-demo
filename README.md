@@ -21,4 +21,7 @@
 - Le Flohic PAUL
 - Dakhia RAYAN
 - Aribaud VICTOR depuis Linux
-
+- Corentin BOUNON
+- Eden ARFI
+- Noël MATHIEU
+- Jean YAPO
