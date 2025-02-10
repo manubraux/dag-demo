@@ -49,7 +49,8 @@ x-airflow-common:
   # In order to add custom dependencies or upgrade provider packages you can use your extended image.
   # Comment the image line, place your Dockerfile in the directory where you placed the docker-compose.yaml
   # and uncomment the "build" line below, Then run `docker-compose build` to build the images.
-  image: ${AIRFLOW_IMAGE_NAME:-juandavidcruzgo/airflow:2.8.1-custom} # -apache/airflow:2.8.1 L'image correspond à la config de l'ordi (local)
+  #image: ${AIRFLOW_IMAGE_NAME:-juandavidcruzgo/airflow:2.8.1-custom} 
+  image: ${AIRFLOW_IMAGE_NAME:-apache/airflow:2.10.4-imt} # L'image correspond à l'image locale
   # build: 
   environment:
     &airflow-common-env
